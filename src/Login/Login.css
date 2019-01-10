@@ -1,0 +1,11 @@
+.login-card {
+  width: 500px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.login-card img {
+  height: auto;
+  width: 200px;
+}

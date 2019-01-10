@@ -2,9 +2,15 @@
   "name": "portal-batman",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:7777/api",
   "dependencies": {
+    "antd": "^3.12.1",
+    "loadash": "^1.0.0",
+    "qs": "^6.6.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
+    "react-refetch": "^2.0.3",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.3"
   },
   "scripts": {

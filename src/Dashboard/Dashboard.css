@@ -1,0 +1,12 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.dashboard-right-panel{
+  margin-top: 50px;
+  margin-right: 80px;
+}
+
+.dashb-card {
+  margin-bottom: 20px;
+}
